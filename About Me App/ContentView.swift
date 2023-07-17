@@ -20,7 +20,7 @@ struct ContentView: View {
             Spacer()
             Image("starwberry2")
                 .resizable(resizingMode: .stretch)
-            Text("Click to learn more about me")
+            Text("Click to learn more about me!")
                 .font(.headline)
                 
         
